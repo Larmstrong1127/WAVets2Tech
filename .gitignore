@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# .NET build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Sensitive configuration
+appsettings.Development.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
