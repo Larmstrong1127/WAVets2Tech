@@ -112,3 +112,5 @@ npm start
 ## License
 
 This project was developed as part of the WAVets2Tech program at Saint Martin's University. For educational and portfolio purposes.
+
+**Developer:** Landon Armstrong · [GitHub](https://github.com/Larmstrong1127)
